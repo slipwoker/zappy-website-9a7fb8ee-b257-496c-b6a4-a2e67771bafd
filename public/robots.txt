@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abergel-asulin-assets-llc-9a7fb8ee.zappy5.app/sitemap.xml
