@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# Abergel & Asulin Assets LLC — Generative Engine Optimization Map
+
+> A real estate investment business.
 
 ---
 
 ## Pages
 
 ### Home
-https://abergel-asulin-assets-llc.zappy5.app
+https://zappy-site-9a7fb8ee-b257-496c-b6a4.onrender.com
 Discover expert REIT real estate investment trust solutions that deliver exceptional returns. Partner with Abergel & Asulin Assets LLC today!
 
 ### Services
-https://abergel-asulin-assets-llc.zappy5.app/services
+https://zappy-site-9a7fb8ee-b257-496c-b6a4.onrender.com/services
 Professional residential real estate investing services including REIT management, portfolio optimization, and realty income solutions from our property investment company.
 
 ### About
-https://abergel-asulin-assets-llc.zappy5.app/about
+https://zappy-site-9a7fb8ee-b257-496c-b6a4.onrender.com/about
 Learn about our property investment company's mission to deliver exceptional REIT real estate investment trust solutions and residential real estate investing opportunities.
 
 ### Contact
-https://abergel-asulin-assets-llc.zappy5.app/contact
+https://zappy-site-9a7fb8ee-b257-496c-b6a4.onrender.com/contact
 Contact our property investment company for expert REIT real estate investment trust guidance and residential real estate investing opportunities that generate realty income.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://abergel-asulin-assets-llc.zappy5.app/privacy
+https://zappy-site-9a7fb8ee-b257-496c-b6a4.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://abergel-asulin-assets-llc.zappy5.app/terms
+https://zappy-site-9a7fb8ee-b257-496c-b6a4.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://abergel-asulin-assets-llc.zappy5.app/accessibility
+https://zappy-site-9a7fb8ee-b257-496c-b6a4.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Abergel & Asulin Assets LLC
+Abergel & Asulin Assets LLC is a business in the real estate investment industry.
+
+## Target Audience
+property owners, agents, and wholesalers
+
+## Industry
+real estate investment
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://abergel-asulin-assets-llc.zappy5.app/sitemap.xml
-- **Robots.txt**: https://abergel-asulin-assets-llc.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-9a7fb8ee-b257-496c-b6a4.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-9a7fb8ee-b257-496c-b6a4.onrender.com/robots.txt
