@@ -1512,3 +1512,13 @@ body.accessibility-widget-visible ._access-menu {
     display: none !important;
   }
 }
+
+/* === AI CUSTOMIZATION ADDITIONS === */
+/* CTA disclaimer text styling */
+.cta-disclaimer {
+  color: #6b7280 !important;
+  font-size: 14px !important;
+  margin-top: 16px !important;
+  text-align: center;
+  line-height: 1.5 !important;
+}

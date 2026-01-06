@@ -1,6 +1,4 @@
-# Abergel & Asulin Assets LLC — Generative Engine Optimization Map
-
-> A real estate investment business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Abergel & Asulin Assets LLC
-Abergel & Asulin Assets LLC is a business in the real estate investment industry.
-
-## Target Audience
-property owners, agents, and wholesalers
-
-## Industry
-real estate investment
-
+## About Business
 ---
 
 # Additional Resources
